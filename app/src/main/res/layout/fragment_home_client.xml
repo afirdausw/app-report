@@ -9,6 +9,7 @@
         android:layout_centerInParent="true"
         android:fontFamily="sans-serif-light"
         android:text="Home Client"
+        android:textColor="@color/white"
         android:textSize="18sp" />
 
 </RelativeLayout>

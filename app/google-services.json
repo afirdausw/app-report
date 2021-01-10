@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "51705625492",
+    "project_id": "app-report-firdaus",
+    "storage_bucket": "app-report-firdaus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51705625492:android:afc3312b14cee6085e2d81",
+        "android_client_info": {
+          "package_name": "firdaus.report"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51705625492-8ui75u8u7mttpnraec8pajcj5n9fef0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firdaus.report",
+            "certificate_hash": "7000120919a58ba88b2a07d184f96548fe8ad7ba"
+          }
+        },
+        {
+          "client_id": "51705625492-7efd3kugr1oerpds3itm3hn1pvh9aq7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvyPZ05fPNWNhXTHLtNuT13QMacjdjNpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51705625492-7efd3kugr1oerpds3itm3hn1pvh9aq7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

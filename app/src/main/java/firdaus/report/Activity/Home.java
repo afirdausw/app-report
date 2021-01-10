@@ -54,7 +54,7 @@ public class Home extends AppCompatActivity implements BottomNavigationView.OnNa
         ButterKnife.bind(this);
         context = this;
 
-        getWindow().setStatusBarColor(getResources().getColor(R.color.colorPrimary));
+        getWindow().setStatusBarColor(getResources().getColor(R.color.background));
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS);
 
         loadFragment(new FragmentHome(), 0);

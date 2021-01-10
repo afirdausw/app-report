@@ -13,4 +13,16 @@
         <item name="textAllCaps">true</item>
     </style>
 
+    <style name="BottomNavigation">
+        <item name="android:background">@color/dark</item>
+        <item name="itemBackground">@drawable/bottom_navigation_background</item>
+        <item name="itemIconTint">@drawable/bottom_navigation</item>
+        <item name="itemTextColor">@color/white</item>
+        <item name="itemTextAppearanceActive">@style/BottomNavigation.TextAppearance</item>
+    </style>
+
+    <style name="BottomNavigation.TextAppearance" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize">10sp</item>
+    </style>
+
 </resources>
